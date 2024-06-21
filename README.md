@@ -7,22 +7,19 @@ This repository contains the design files for the Service Finder Application cre
 ### Restaurant Ordering
 - **Browse Restaurants**: Users can view a list of restaurants with details like menu, ratings, and reviews.
 - **Order Food**: Users can select dishes and place orders directly from the application.
-- **Track Orders**: Users can track the status of their orders in real-time.
 
 ### Car Wash
 - **Find Car Wash Services**: Users can locate nearby car wash services.
 - **Book Appointments**: Users can book car wash appointments at their convenience.
-- **Service Details**: Users can view details of the services offered, pricing, and customer reviews.
+- **Service Details**: Users can view details of the services offered, pricing.
 
 ### Salon Booking
 - **Browse Salons**: Users can explore various salons based on location, ratings, and services offered.
-- **Book Appointments**: Users can schedule appointments for salon services like haircuts, manicures, etc.
-- **View Offers**: Users can see ongoing promotions and discounts.
+- **Book Appointments**: Users can schedule appointments for salon services like haircuts, etc.
 
 ### Ride Booking
 - **Find Rides**: Users can search for available rides and compare prices.
-- **Book Rides**: Users can book rides for immediate or future travel.
-- **Track Rides**: Users can track their ride in real-time and get estimated arrival times.
+- **Book Rides**: Users can book rides for immediate travel.
 
 ## Design Overview 
 
